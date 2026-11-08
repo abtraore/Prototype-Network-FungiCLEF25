@@ -1,0 +1,6 @@
+__pycache__/
+*.pt
+logs/
+gpt_batches/
+data/openclip/
+submission.csv
